@@ -10,8 +10,9 @@ Hi, I am Sibivasan, Security Researcher.
 
 ## Working on.
 
-- Web application security
-- Binary Exploitation (Stack)
+- Web application security.
+- Binary Exploitation (Stack).
+- Playing CTF.
 
 
 
